@@ -2,6 +2,8 @@
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
+Credits to youtube channel `joy of code`: https://www.youtube.com/watch?v=w2q9caYXgkg&t=581s
+
 ## Cloning this project
 
 You just need to clone this repo and install dependencies
